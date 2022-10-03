@@ -1,0 +1,36 @@
+._background {
+  background-color: rgba(230, 227, 223, 0.607);
+  margin: 0.5%;
+  text-align: center;
+  grid-template-columns: repeat(auto-fill);
+
+}
+
+._conta {
+  background-color: white;
+  margin: 1%;
+  padding: 2%;
+}
+
+div i {
+  position: fixed;
+  color: green;
+}
+
+._header {
+  text-align: center;
+  padding: 30px;
+}
+
+ul,
+.footer {
+  text-align: start;
+  padding: 20px 30%;
+
+}
+
+ul li p span {
+  font-weight: bold;
+}
+
+.footer {}
